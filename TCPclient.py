@@ -1,5 +1,5 @@
 # CS4032 Lab01 Submission
-# Michael Daly/McAndrew #10380775
+# Michael Daly/McAndrew
 import socket
 import sys
 
